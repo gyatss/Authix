@@ -1,7 +1,7 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "secret": "YOUR_BOT_SECRET",
-  "id": "YOUR_BOT_CLIENT_ID",
+  "token": "MTUwMDIxOTM3MjIwMjEwMzA0NQ.GfTcX1.m266Et2JIpxDVJ9n8h2TYU5tSxETDJzYwhSFZc",
+  "secret": "642zYysgrQDS4nLbYC-H_9vjXKtZeN8V",
+  "id": "1500219372202103045",
   "redirect": "http://127.0.0.1:8000/callback",
   "api_endpoint": "https://canary.discord.com/api/v8",
   "logs": [
